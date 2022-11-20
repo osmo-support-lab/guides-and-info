@@ -19,6 +19,6 @@ What is a DEX?
 Both centralized and decentralized exchanges facilitate the swapping of assets for other assets. For the most part however, the similarities end there.
 
 
-     Decentralized exchanges, or 'DEX' came about as an alternative to traditional centralized exchanges as many people prefer to be in full control over their assets at all times. Contrary to the privately owned and operated custodial-style platform of a 'CEX', most DEX platforms are open-source protocols running on decentralized infrastructure and cannot be controlled or manipulated by any single entity or party.
+Decentralized exchanges, or 'DEX' came about as an alternative to traditional centralized exchanges as many people prefer to be in full control over their assets at all times. Contrary to the privately owned and operated custodial-style platform of a 'CEX', most DEX platforms are open-source protocols running on decentralized infrastructure and cannot be controlled or manipulated by any single entity or party.
 
-     Rather than trading placeholder tokens and operating on a closed system where it's unsure what is actually happening with the tokens you sent to the CEX wallet, a DEX allows you to remain the sole keeper and controller of your tokens at every point in the process. This is typically accomplished through on-chain smart contracts 
+Rather than trading placeholder tokens and operating on a closed system where it's unsure what is actually happening with the tokens you sent to the CEX wallet, a DEX allows you to remain the sole keeper and controller of your tokens at every point in the process. This is typically accomplished through on-chain smart contracts 
