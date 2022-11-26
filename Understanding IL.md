@@ -1,6 +1,6 @@
 # Impermanent Loss
 
-*One of the main considerations for someone adding assets to traditional liquidity pools is the risk of impermanent loss. Don't be fooled by the strange name - the effect can be very permanent.*
+**One of the main considerations for someone adding assets to traditional liquidity pools is the risk of impermanent loss. *Don't be fooled by the strange name - the effect can be very permanent.***
 
 **Impermanent loss is an effect of token prices changing in a liquidity pool.**
 
