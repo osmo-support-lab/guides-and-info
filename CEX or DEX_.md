@@ -9,7 +9,9 @@ These are typically private, commercialized trading platforms, which operate abo
 When you hold or deposit assets there, the 'wallet' is owned by the platform itself. This has advantages, and disadvantages.
 Advantages include redundant security features, high liquidity of a large selection of tokens and many trading options, from basic market buy/sell or limit orders to futures and margin trading.
 The main downside -- all of this relies heavily on *trust*. Trust in the platform and the people running it tp remain honest, secure and *solvent*.
+
 <br>
+
 **More recently, a different type of exchange has been growing in popularity -- The *decentralized* exchange, or 'DEX'**
 
 The idea of a DEX as a viable alternative to CEXes is growing in popularity, as more people prefer full control and *custody* over their assets. 
