@@ -8,7 +8,7 @@ These are typically private, commercialized trading platforms, which operate abo
 
 When you hold or deposit assets there, the 'wallet' is owned by the platform itself. This has advantages, and disadvantages.
 Advantages include multiple security features like 2-FA, high liquidity of a large selection of tokens and many trading options, from basic market buy/sell or limit orders to futures and margin trading.
-The main downside is that all of this relies heavily on *trust*. Trust in the platform and the people running it tp remain honest, secure and *solvent*.
+The main downside is that all of this relies heavily on *trust*. Trust in the platform and the people running it to remain honest, secure and solvent.
 
 <br>
 
