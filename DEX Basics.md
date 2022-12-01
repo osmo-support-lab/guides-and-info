@@ -18,4 +18,4 @@ The idea of a DEX as a viable alternative to CEXes is growing in popularity, as 
 The main consideration for users is this requires users to be more 'involved' with their trading, and take the time to research everything before getting involved. The inherent drawback to this is that your security is solely in your own hands - maintaining exclusive control over your wallet and seed phrase are of utmost importance here.
 
 Most DEX platforms are *trustless* by design. Typically built with open-source protocols and running on decentralized infrastructure, they are resistant to unexpected control or manipulation by a single entity.
-That being said, they are not immune to exploits or development oversights.. but then again...neither are CEX platforms*.
+That being said, they are not immune to exploits or development oversights.. *but then again...neither are CEX platforms*.
