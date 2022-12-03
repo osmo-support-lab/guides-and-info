@@ -6,7 +6,7 @@
 
 If you are \[\[staking]] your OSMO coins, you will always retain that number of OSMO, and the value of your holdings fluctuates only based on the price of OSMO. However when you pair it with another token in a \[\[liquidity pool]], you are likely to exit the pool with a different number of OSMO than you started with. Sometimes it turns out that you would have been better off just holding your coins instead of providing liquidity. This opportunity cost is called impermanent loss.
 
-![](https://image.scribehow-prod.com/Mfh-W8wB33T1ae-w4\_lPz-Sk50xu8MrR-MRdQATBKTU/zoom:1.5013404825737264/enlarge:true/crop:746:420:nowe:650:361/wm:0:nowe:535:96:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI1L2Y5ZmNiYjdlLWMxZjUtNGRhZi04YjYzLTg4OTZlZGUyNmEyYi91c2VyX2Nyb3BwZWRfc2NyZWVuc2hvdC5qcGVn)\
+<img src="https://image.scribehow-prod.com/Mfh-W8wB33T1ae-w4_lPz-Sk50xu8MrR-MRdQATBKTU/zoom:1.5013404825737264/enlarge:true/crop:746:420:nowe:650:361/wm:0:nowe:535:96:0.08928571428571429/aHR0cHM6Ly9jb2xvbnktcmVjb3JkZXIuczMuYW1hem9uYXdzLmNvbS9maWxlcy8yMDIyLTExLTI1L2Y5ZmNiYjdlLWMxZjUtNGRhZi04YjYzLTg4OTZlZGUyNmEyYi91c2VyX2Nyb3BwZWRfc2NyZWVuc2hvdC5qcGVn" alt="" data-size="original">\
 **To understand how and why IL happens, it will help to learn some basic mechanics behind liquidity pools, and the concept of arbitrage.**
 
 In an established liquidity pool, the price of the tokens there is affected only by buy/sell pressure on that pool. Since the pool doesn't know or care what the market is doing, traders can now take advantage of price differences between this and other platforms by arbitrage trading.\
