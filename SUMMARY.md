@@ -1,0 +1,17 @@
+# Table of contents
+
+* [🔗 Bridging with Axelar](README.md)
+* [What is a DEX?](<DEX Basics.md>)
+* [Depositing on Osmosis](<Depositing on Osmosis.md>)
+* [Funding Keplr Wallet (Coinbase)](<Funding Keplr Wallet (Coinbase).md>)
+* [Funding Keplr Wallet (Crypto.com)](<Funding Keplr Wallet (Crypto.com).md>)
+* [Funding Keplr Wallet (Kado)](<Funding Keplr Wallet (Kado).md>)
+* [Ledger Setup Guide](<Ledger Setup Guide.md>)
+* [Guides-and-info](<README (1).md>)
+* [Sending Tokens with Keplr](<Sending Tokens with Keplr.md>)
+* [Setting up Keplr wallet](<Setting up Keplr wallet.md>)
+* [Staking OSMO in Keplr](<Staking OSMO in Keplr.md>)
+* [Impermanent Loss](<Understanding IL.md>)
+* [Wallet Safety](<Wallet Safety.md>)
+* [Withdrawing Evmos from Osmosis](<Withdrawing Evmos from Osmosis.md>)
+* [Withdrawing from Osmosis](<Withdrawing from Osmosis.md>)
