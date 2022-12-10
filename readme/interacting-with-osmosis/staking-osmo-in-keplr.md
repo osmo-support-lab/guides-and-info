@@ -8,8 +8,6 @@ Staked tokens are also what gives your vote on governance proposals its weight. 
 **1.**
 Open the staking dashboard to see the list of validators. Choose carefully, if your validator misbehaves or has excessive downtime you could miss out on earnings. In extreme cases your tokens may be slashed.<br>
 Also keep the importance of decentralization in mind. Spreading the voting and consensus power more equally creates a more robust chain.
-‍<br>
-🧪 Tip! You can split your delegation between multiple validators to reduce the effects of any potential validator upset.
 ![](https://github.com/osmo-support-lab/guides-and-info/blob/main/guide-images/staking/1.png?raw=true)
 🧪 Tip! You can split your delegation between multiple validators to reduce the effects of any potential validator upset.
 <br><br>
