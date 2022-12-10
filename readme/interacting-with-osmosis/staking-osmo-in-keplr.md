@@ -11,6 +11,7 @@ Also keep the importance of decentralization in mind. Spreading the voting and c
 ‍<br>
 🧪 Tip! You can split your delegation between multiple validators to reduce the effects of any potential validator upset.
 ![](https://github.com/osmo-support-lab/guides-and-info/blob/main/guide-images/staking/1.png?raw=true)
+🧪 Tip! You can split your delegation between multiple validators to reduce the effects of any potential validator upset.
 <br><br>
 **2.**
 After making your selection, push 'manage' next to that validator, then 'delegate' to stake tokens to this validator.
