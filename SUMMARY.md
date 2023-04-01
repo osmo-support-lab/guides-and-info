@@ -18,3 +18,4 @@
     * [Staking OSMO in Keplr](readme/interacting-with-osmosis/staking-osmo-in-keplr.md)
     * [Impermanent Loss](readme/interacting-with-osmosis/understanding-il.md)
     * [Withdrawing Evmos from Osmosis](readme/interacting-with-osmosis/withdrawing-evmos-from-osmosis.md)
+    * [Building a database query using Flipside](readme/interacting-with-osmosis/query-flipside-database.md)
