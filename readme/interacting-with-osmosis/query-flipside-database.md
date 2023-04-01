@@ -22,10 +22,10 @@ Full [documentation](https://docs.flipsidecrypto.com/) here.
 
 <br>
 
-#### This extra info in the lower panel is the actual data points you can query. You can combine several for a powerful search, and go even further by excluding others, using "and/or" statements, etc.
+### This extra info in the lower panel is the actual data points you can query. You can combine several for a powerful search, and go even further by excluding others, using "and/or" statements, etc. Click through these and run some sample/simulation queries to get a better idea of what data can be found and how to format your query.
 
 
-**The syntax is important. The form will try to assist you by completing each term. If something isn't working or it won't accept a value you've entered, try enclosing it in single quotes.** [ ' ' ]
+#### The syntax is important. The form will try to assist you by completing each term. If something isn't working or it won't accept a value you've entered, try enclosing it in single quotes. [ ' ' ]
 
 *Here's an example to get you started. This will return 'all' [ * ] entries from 'fact_daily_balances' where the address and date both match these values exactly.*
 ```
