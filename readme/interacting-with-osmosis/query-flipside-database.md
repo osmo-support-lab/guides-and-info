@@ -1,6 +1,8 @@
 # Building and running database queries
 
-Even with block explorers and community or validator built information hubs, some pieces of info can still be very difficult to find. Thanks to [Flipside](https://flipsidecrypto.xyz/), there is a free-to-use database built for this, and much more. Data experts and clever amateurs use this to uncover interesting data or correlations that would otherwise be buried in the blockchain.<br>
+Even with block explorers and community or validator built information hubs, some pieces of info can still be very difficult to find. Thanks to [Flipside](https://flipsidecrypto.xyz/), there is a free-to-use database built for this, and much more. Data experts and clever amateurs use this to uncover interesting data or correlations that would otherwise be buried in the blockchain.
+
+<br>
 
 ![](https://github.com/osmo-support-lab/guides-and-info/blob/main/guide-images/flipside/1.png?raw=true "Community dashboards")
 
