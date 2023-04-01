@@ -27,7 +27,7 @@ Full [documentation](https://docs.flipsidecrypto.com/) here.
 
 **The syntax is important. The form will try to assist you by completing each term. If something isn't working or it won't accept a value you've entered, try enclosing it in single quotes.** [ ' ' ]
 
-*Here's an example to get you started.*
+*Here's an example to get you started. This will return 'all' (*) entries from 'fact_daily_balances' where the address and date both match these values exactly.*
 ```
 SELECT
 *
