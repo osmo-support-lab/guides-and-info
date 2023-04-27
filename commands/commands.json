@@ -1,0 +1,1070 @@
+{
+  "values": [
+    [
+      "Enabled",
+      "Command",
+      "Title",
+      "Body",
+      "Image"
+    ],
+    [
+      "TRUE",
+      "!acre",
+      "This is a title here",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/ArableProtocol",
+      "https://demo-res.cloudinary.com/image/upload/sample.png"
+    ],
+    [
+      "TRUE",
+      "!airdrops",
+      "",
+      "For Airdrops related info, please join the following channels\r\n\r\nhttps://t.me/CosmosAirdrops\r\n\r\nhttps://www.reddit.com/r/CosmosAirdrops/"
+    ],
+    [
+      "TRUE",
+      "!akt",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/AkashNW"
+    ],
+    [
+      "TRUE",
+      "!amm",
+      "",
+      "For more information on Apollo Dao, please read this article or join their TG/Discord channels-\r\n\r\nhttps://articles.apollo.farm/deploying-apollo-safe-to-osmosis-and-injective/ \r\n\r\nhttps://t.me/apollodao \r\n\r\nhttps://discord.com/invite/j3KxMR8ZjZ "
+    ],
+    [
+      "TRUE",
+      "!apollo",
+      "",
+      "👉The APR is very dynamic, can change quickly if more people bond or unbond, and is subject to changes by the Governance from time to time.\n\n🔸APR is calculated based on 7day trade vol, swap fee and few other factors. \n\n🧪Every Monday a new Semi-Automatic Incentive Adjustments proposal is proposed and when passed,the updated APR is distributed on Saturday. \n\n👉For more info check-out this auto-updating spreadsheet or visit https://info.osmosis.zone/pools\n\nhttps://bit.ly/newincentivessheet"
+    ],
+    [
+      "TRUE",
+      "!apr",
+      "",
+      "For more information about ATOLO/Rizon, please join their Telegram Channel:\n\nhttps://t.me/rizon_atolo_eng"
+    ],
+    [
+      "TRUE",
+      "!atolo",
+      "",
+      "For more information about ATOM/Cosmos, please join their Telegram Channel:\n\nhttps://t.me/cosmosproject "
+    ],
+    [
+      "TRUE",
+      "!atom",
+      "",
+      "Osmosis audit can be found here- https://bit.ly/34v5j64"
+    ],
+    [
+      "TRUE",
+      "!audit",
+      "",
+      "Please Join Their Telegram Channel.\n                                                                                                                                                                                        \nhttps://t.me/axelarcommunity "
+    ],
+    [
+      "TRUE",
+      "!axl",
+      "",
+      "For more info about BAND, please join their Telegram channel.\n   \nhttps://t.me/bandprotocol "
+    ],
+    [
+      "TRUE",
+      "!band",
+      "",
+      "Please Join TheirTelegram Channel.\nhttps://t.me/BitcannaGlobal"
+    ],
+    [
+      "TRUE",
+      "!bcna",
+      "",
+      "OSMOSIS for beginners and newcomers:\n\n🧪About Osmosis, Vision and Liquidity Mining\n\nhttps://medium.com/@Osmosis \n\n👉Make sure to familiarize yourself with the concepts explained in the following links before thinking to use an AMM (DEX) like Osmosis, if you plan to become liquidity provider. All the next articles are a Must Read.\n\nhttps://www.theancientbabylonians.com/what-is-liquidity-pool-lp-in-defi/ \n\u200b\nhttps://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm \n\u200b\nhttps://academy.binance.com/en/articles/impermanent-loss-explained "
+    ],
+    [
+      "TRUE",
+      "!beginner",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/agoricsystems\n\nDiscord Channel \n\nhttps://discord.com/invite/qDW8DRes4s"
+    ],
+    [
+      "TRUE",
+      "!bld",
+      "",
+      "🔐 Liquidity can be bonded in incentivized pools to receive liquidity-mining rewards in OSMO or other tokens. These rewards are distributed daily into LP's wallets on epoch (17:30 UTC).\n\nrelated to #liquiditymining"
+    ],
+    [
+      "TRUE",
+      "!bond",
+      "",
+      "For more info about BOOT/Bostrom, please join their Telegram channel:\n\nhttps://t.me/fuckgoogle"
+    ],
+    [
+      "TRUE",
+      "!boot",
+      "",
+      "How to bring Axelar wrapped USDC/USDT/WETH/WBTC/DAI/FRAX to Osmosis:\n\nPlease follow the steps in this article-\n\nhttps://bit.ly/AxelarBridge_To_Osmosis "
+    ],
+    [
+      "TRUE",
+      "!bridge",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/bitsong_ico"
+    ],
+    [
+      "TRUE",
+      "!btsg",
+      "",
+      "How/Where To Buy $OSMO?\n1. https://app.osmosis.zone/ with $ATOM on \u003ca href=\"https://wallet.keplr.app\"\u003eKeplr wallet\u003c/a\u003e\n2. CEX- Binance, MEXC, Gate...\r\n3. For more CEXs/DEXs- https://www.coingecko.com/en/coins/osmosis#markets"
+    ],
+    [
+      "TRUE",
+      "!buyosmo",
+      "",
+      "Here is a handy calculator to work out current staking rewards, and you can choose it by Validator - which also helps 👍\n\nhttps://bit.ly/3GNbb7I"
+    ],
+    [
+      "TRUE",
+      "!cal",
+      "",
+      "🚨🚨WITHDRAWING TO CEX🚨🚨\n\n✅ When withdrawing assets to a Centralized Exchange (CEX), Please withdraw from Osmosis to Keplr wallet first.\n\n❌ DO NOT put a CEX address in Osmosis ''Withdraw To'' field.\n\nℹ️ Include Memo for CEX when sending from Keplr wallet to CEX address.\n\n👉 CEX will not process an IBC transfer correctly, this can be avoided by following the above steps."
+    ],
+    [
+      "TRUE",
+      "!cexwithdraw",
+      "",
+      "Charts can be found here: info.osmosis.zone"
+    ],
+    [
+      "TRUE",
+      "!charts",
+      "",
+      "For more info about CHEQ, please join their Telegram channel.\n\nhttps://t.me/cheqd"
+    ],
+    [
+      "TRUE",
+      "!cheq",
+      "",
+      "👉 Due to active updates between browsers, web interfaces and wallets, it can sometimes be hard to pinpoint the exact cause of an issue. \n\nMake sure of these please:\n1. Use Chrome browser only. Check if your Chrome version is up to date ( chrome://settings/help ).\n2. If you are using Chrome, clear cache cookies from the browser ( chrome://settings/privacy )\n3. Check if your Keplr version is updated.\n( To update keplr wallet, please follow this guide- https://help.keplr.app/articles/updating-your-chrome-extension )\n4. Turn-off (Not delete) all other extensions like metamask etc, while making Txs using Keplr.\n5. Close all other tabs on google chrome while using keplr. Sometimes the popup gets hidden/covered by other live pages/windows.\n6. After trying above all and if it doesn't work, Restart your PC and check again."
+    ],
+    [
+      "TRUE",
+      "!chrome",
+      "",
+      "RIP Tipbot... my favorite son"
+    ],
+    [
+      "TRUE",
+      "!closedrain",
+      "",
+      "There is a group of people called \"Terra Rebels\" who are focused solely on burning Luna. They are trying to implement code on the chain. If you want to pressure them to fixing ibc, please go talk to them. \n\nhttps://t.me/classicluna\nhttps://discord.gg/XXXk8xbZke - join channel \"ibc-discussions\""
+    ],
+    [
+      "TRUE",
+      "!clownfiesta",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/ComdexChat "
+    ],
+    [
+      "TRUE",
+      "!cmdx",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/Composite_Money "
+    ],
+    [
+      "TRUE",
+      "!cmst",
+      "",
+      "ION Bot Commands\n\nA-H\n#airdrops #apr #audit #beginner #bond #bridge #buyosmo #cal #cexwithdraw #charts #chrome #commonwealth #congestion #contacts #cosmwasm #dashboard #deposit #desktopwalletguide #discord #discountfactor #docs #dust #epoch #feedback #flipside #founders #frontier #gaserror #gov #grants #howtosfs \n\nI-P\n#ibcguide #ibcstatus #ibctransaction #impermanentloss #interfluid #interviews #ionbotrules #IONtipbotsrules #keplr #languages #lbp #ledger #links #liquiditymining #listing #LP #lpcalc #lprewards #luncibc #medium #mint #mobilewalletguide #osmocon #osmosis #paradigm #PIN #pinned #poolinginfo #privacy \n\nR-Z \n#redelegate #refresh #relayers #roadmap #rules #safety #scamreport #scamwarning #sfsfaq #siberia #singleasset #socials #spreadsheet #stableswap #stakingguide #stakingrewards #stats #superfluid #support #swapfee #swapguide #team #terraibc #tokenomics #tradeosmo #unbond #updates #usdc #validators #videos #WBTC #whatisosmosis #withdraw"
+    ],
+    [
+      "TRUE",
+      "!commands",
+      "",
+      "Over on our Osmosis Commonwealth channel, there are some great ideas and discussions about upcoming governance proposals.\n \n\nJoin our Commonwealth channel:\nhttps://commonwealth.im/osmosis \n\n💡.. it is the perfect place to find out about upcoming proposals and DAO's before they go on-chain\n\n💡.. a place to read about other community members proposal ideas\n\n💡.. a place to submit and discuss your own ideas \n\nSo why not head over and check it out! 🧪"
+    ],
+    [
+      "TRUE",
+      "!commonwealth",
+      "",
+      "👉It is EPOCH at the moment this means that the network is congested and it is high likely that your problem will be resolved after 10-15 minutes. \n\nPlease wait a bit and try it again after pressing Ctrl+Shift+R or clearing your Cache.\n\n\n🧪 EPOCH occurs daily at 17:30 UTC\n\nDuring Epoch the following rewards are distributed:\n\n🔹Liquidity Mining Rewards; for providing bonded liquidity are paid directly\ninto your wallet in the form of OSMO.\n\n🔸Staking Rewards; are paid in the form of OSMO for delegating your tokens to a validator.\nThese can be claimed daily by connecting to your Keplr wallet."
+    ],
+    [
+      "TRUE",
+      "!congestion",
+      "",
+      "1- Right-click on Osmosis site and select 'Inspect'\n\n2- Open console + Network -\u003e Enable « Disable cache »\n\n3- Keep console open and do your Swap 🧪"
+    ],
+    [
+      "TRUE",
+      "!console",
+      "",
+      "Osmosis Support Lab Contacts\n\nEmail- support@osmosisdao.zone\nTwitter- https://twitter.com/OsmoSupportLab "
+    ],
+    [
+      "TRUE",
+      "!contacts",
+      "",
+      "For more information about Cosmwasm, please go through these documents:\n\nhttps://docs.cosmwasm.com/docs/1.0/ "
+    ],
+    [
+      "TRUE",
+      "!cosmwasm",
+      "",
+      "For more info about CRBRUS, please join their Telegram channel:                                                                                                                                                                                        \nhttps://t.me/cerberus_zone_group "
+    ],
+    [
+      "TRUE",
+      "!crbrus",
+      "",
+      "For more info about CRE, please join their Telegram channel:\n\nhttps://t.me/crescentnetwork"
+    ],
+    [
+      "TRUE",
+      "!cre",
+      "",
+      "For more info about CRE, please join their Telegram channel: \n\nhttps://t.me/CertiKCommunity "
+    ],
+    [
+      "TRUE",
+      "!ctk",
+      "",
+      "For more info about CUDOS, please join their Telegram channel.\n\nhttps://t.me/cudostelegram"
+    ],
+    [
+      "TRUE",
+      "!cudos",
+      "",
+      "For more info about DARC, please join their Telegram channel: \n\nhttps://t.me/Konstellation"
+    ],
+    [
+      "TRUE",
+      "!darc",
+      "",
+      "You can now check your Rewards history/Wallet balance/LP portfolio by connecting your wallet here-\n\nhttps://info.osmosis.zone/dashboard/  \n \n(Credits to the dashboard developer/validator Imperator.co)"
+    ],
+    [
+      "TRUE",
+      "!dashboard",
+      "",
+      "For more info, Please join their Telegram channel.\n\nhttps://t.me/DecentrNet "
+    ],
+    [
+      "TRUE",
+      "!dec",
+      "",
+      "🔗 Before you can trade you will need to make a deposit using the \"Assets\" tab on osmosis.zone. Please be patient, it can take up to 10 minutes for IBC deposits to complete."
+    ],
+    [
+      "TRUE",
+      "!deposit",
+      "",
+      "🖥 connect to osmosis.zone using \u003ca href=\"https://wallet.keplr.app\"\u003ekeplr wallet\u003c/a\u003e (chrome browser)\n\n\u003ci\u003eIf you use Cosmostation you can add your mnemonic phrase in Keplr\u003c/i\u003e\n\nyou can also check this article: https://bit.ly/3rGVieG"
+    ],
+    [
+      "TRUE",
+      "!desktopwalletguide",
+      "",
+      "For more info about DIG, please join their Telegram channel:\n\nhttps://t.me/dig_chain_official"
+    ],
+    [
+      "TRUE",
+      "!dig",
+      "",
+      "Please join the Osmosis Discord here:\nhttps://discord.gg/osmosis"
+    ],
+    [
+      "TRUE",
+      "!discord",
+      "",
+      "🧪What percentage of OSMO in my LP position will be staked?💦\nTo start with, according to Prop 157 (the proposal initiating superfluid staking), 50% of the underlying OSMO will be used in the ATOM/OSMO pool. This is known as the superfluid discount factor, and it can be changed by Osmosis governance.\n\nTherefore, for example, if you put in $100 dollars of total assets, $25 worth of OSMO will be superfluid staked. The $50 worth of ATOM will provide a safety buffer, since the whole LP is slashable. \n\n(Note: The proportion of ATOM to OSMO will change from 50/50 as OSMO and ATOM change price. The chain logic will keep track of these changes and give you credit for your OSMO accordingly.)\n\nWhen other chains start using interfluid staking, the other half of a pool will no longer provide extra collateral, so it may make sense to set the superfluid stake percentage at 90%, for example, to provide a margin of safety.\n\nSlashing is what happens when validators misbehave badly, double-signing a transaction or colluding to attack the chain. Bonded assets can be burned to raise the costs of such an attack. In the case of superfluid staking, any slashed funds will be sent to the Osmosis Community Pool. Slashing is another reason to be thoughtful about your validator selection."
+    ],
+    [
+      "TRUE",
+      "!discountfactor",
+      "",
+      "Welcome to the official documentation for Osmosis, an advanced automated market maker (AMM) protocol that allows developers to build customized AMMs with sovereign liquidity pools.\nBuilt using the Cosmos SDK, Osmosis utilizes Inter-Blockchain Communication (IBC) to enable cross-chain transactions.\n\nhttps://docs.osmosis.zone/"
+    ],
+    [
+      "TRUE",
+      "!docs",
+      "",
+      "Please Join Their Discord Channel.\n\nhttps://t.co/ygfOAT5i4x"
+    ],
+    [
+      "TRUE",
+      "!dsm",
+      "",
+      "How to remove dust from an LP\n \n1)In order to remove small amounts from an LP, you'll first have to add some liquidity.\n\n2)You can accomplish this by selecting add/remove liquidity and adding at least 0.25 of a token you do have available to the LP.\n\n3)After this, you can refresh your page and select add/remove liquidity again, and you can now remove 100% liquidity 👍"
+    ],
+    [
+      "TRUE",
+      "!dust",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/sentinel_co"
+    ],
+    [
+      "TRUE",
+      "!dvpn",
+      "",
+      "🧪 EPOCH occurs daily at 17:15 UTC ~ The timer can be seen on top of the Pools tab where it says: \"Reward distribution in\"\n\nDuring Epoch the following rewards are distributed:\n\nLiquidity Mining Rewards (including SFS rewards), for providing bonded liquidity are paid directly\ninto your wallet in the form of OSMO.  (check the \"Assets\" tab after 17:15 UTC)\n\nStaking Rewards, are paid in the form of OSMO for delegating your tokens to a validator.\nThese can be claimed daily by connecting to your Keplr wallet"
+    ],
+    [
+      "TRUE",
+      "!epoch",
+      "",
+      "Please Join Their Telegram Channel.\n\n\nhttps://t.me/EvmosOrg"
+    ],
+    [
+      "TRUE",
+      "!evmos",
+      "",
+      "If you have feedback on the new frontend or the design, or any features that you feel are missing or would like to see, please fill out the following form!\n\nhttps://tally.so/r/w4ar4r\n\nThe front-end design team will be reviewing all submissions and potentially reaching out to users that submit issues to get more information on your feedback!"
+    ],
+    [
+      "TRUE",
+      "!feedback",
+      "",
+      "https://t.me/fetch_ai"
+    ],
+    [
+      "TRUE",
+      "!fet",
+      "",
+      "Please use this form to contact the flipside team: https://forms.gle/BGPfzZJVFfBScav37"
+    ],
+    [
+      "TRUE",
+      "!flipside",
+      "",
+      "Please Join FLUX Telegram Channel \n\nhttps://t.me/runonflux"
+    ],
+    [
+      "TRUE",
+      "!flux",
+      "",
+      "Osmosis team/founders:\n\n🔸Sunny Aggarwal\nhttps://twitter.com/sunnya97  \nhttps://www.crunchbase.com/person/sunny-aggarwal  \nhttps://www.sunnya97.com/about/  \nhttps://www.linkedin.com/in/sunnya97  \n\n🔸Josh Lee\nhttps://twitter.com/dogemos  \n\n🔸Dev Ojha\nhttps://twitter.com/valardragon \n\n🔸Tony Yun\nhttps://twitter.com/tonyyun9"
+    ],
+    [
+      "TRUE",
+      "!founders",
+      "",
+      "Frontier is a permissionless form of osmosis dex where newly launched tokens and un-incentivised assets are available. \nhttps://frontier.osmosis.zone/\n\n👉Once a pool containing the asset has been onboarded into receiving Osmosis Liquidity Mining incentives, the Asset will then be added to the main app.osmosis.zone site; although, there are some exceptions of unincentivized assets being listed directly on the main site if the assets are well-established and part of an ecosystem with a large market capitalization..\n\nFor more info, please see this article- https://medium.com/osmosis/introducing-osmosis-frontier-d9da158b22d0 \n\nor visit the Frontier FAQ: https://medium.com/osmosis-community-updates/osmosis-frontier-faq-42537853e292"
+    ],
+    [
+      "TRUE",
+      "!frontier",
+      "",
+      "If you're getting a gas error when claiming staking rewards:\n\n🔸On the transaction window, Select LOW fees and manually Set Gas to 1,400,000 (add an extra zero)"
+    ],
+    [
+      "TRUE",
+      "!gaserror"
+    ],
+    [
+      "TRUE",
+      "!gasfee",
+      "",
+      "Please Join Their Discord Channel.\n\nhttps://discord.com/invite/UpAkK67zcw"
+    ],
+    [
+      "TRUE",
+      "!glto",
+      "",
+      "Please join the unofficial Telegram channel.\n\nhttps://t.me/GalaxyGLX"
+    ],
+    [
+      "TRUE",
+      "!glx",
+      "",
+      "Want to know everything about Osmosis Governance? \n\n🧪 Read a basic guide about governance and voting: https://support.osmosis.zone/tutorials/governance\n\n🧪 Info on Osmosis governance statutes: https://bit.ly/Osmosis_Governance \n\n🧪 Check out the commonwealth discussions here: https://gov.osmosis.zone/\n\n🧪 Get Telegram alerts for new proposals: https://t.me/osmogov"
+    ],
+    [
+      "TRUE",
+      "!gov",
+      "",
+      "The Osmosis Grants Program is now live! Community members may apply for grants to fund initiatives aimed at the betterment of the Osmosis protocol!\n \n🧪Details about Osmosis Grants Program (OGP) can be found here-\nhttps://grants.osmosis.zone/  \n\n🧪Background on the Osmosis Grants Program can be found here- \nhttps://www.mintscan.io/osmosis/proposals/186 \n\n🧪OGP Twitter link- https://twitter.com/OsmosisGrants "
+    ],
+    [
+      "TRUE",
+      "!grants",
+      "",
+      "Read here about Gravitybridge \n\nhttps://www.gravitybridge.net \n\nhttps://www.gravitybridge.net/faq \n\nhttps://github.com/cosmos/gravity-bridge \n\nFor more info, Please Join Their Discord Channel\n                                                                                                                                                                                        \nhttps://discord.com/invite/d3DshmHpXA \n"
+    ],
+    [
+      "TRUE",
+      "!grav",
+      "",
+      "Please join their Discord server.\n   \nhttps://discord.com/invite/BfKPacc5jF                                                                                                                                                                          "
+    ],
+    [
+      "TRUE",
+      "!hope",
+      "",
+      "How to SFS-\n\n🔸If you are SF staking first time, Add liquidity -\u003e Bond in 14day gauge -\u003e Select SFS option -\u003e Choose a Validator -\u003e Confirm and Done.\n\n🔹If you are adding more liquidity (or daily rewards) to the previously SF staked pool, just add liquidity and bond it in the 14day gauge. It adds automatically to SF staking to the previously chosen validator.  \n\n🧪Note that Normal LP bonding can not be done in a 14day SFS pool, if you have SF staked previously."
+    ],
+    [
+      "TRUE",
+      "!howtosfs",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/chihuahua_cosmos"
+    ],
+    [
+      "TRUE",
+      "!huahua",
+      "",
+      "⚛️ IBC is an interoperability protocol for communicating arbitrary data between arbitrary state machines. IBC can be used to build a wide range of cross-chain applications, including but not limited to token transfers, interchain accounts (delegate calls between two chains), non-fungible token transfers and oracle data feeds.  https://ibcprotocol.org/"
+    ],
+    [
+      "TRUE",
+      "!ibcguide",
+      "",
+      "Realtime IBC Status Dashboard:\n\nhttps://info.osmosis.zone/ibc"
+    ],
+    [
+      "TRUE",
+      "!ibcstatus",
+      "",
+      "💤 IBC is production ready. However, all new technologies should be used with caution.\n\nYour transaction has to be relayed which will take some time to confirm on both chains. If there is any kind of problem, IBC has a built-in mechanism that will refund your assets to the original address. In some cases this can take up to an hour. Please be patient, your funds are safu "
+    ],
+    [
+      "TRUE",
+      "!ibctransaction",
+      "",
+      "Before using AMM swap protocols (DEX) like Osmosis, especially if you plan to become liquidity provider - Please familiarise yourself with the concepts explained in the following article: \n\nhttps://bit.ly/3LxdKOT\n\nImpermanent Loss Calculator-\n\nhttps://bit.ly/34zUfnW"
+    ],
+    [
+      "TRUE",
+      "!impermanentloss",
+      "",
+      "For more info, Please join their Telegram channel.\n\nhttps://t.me/joininjective "
+    ],
+    [
+      "TRUE",
+      "!inj",
+      "",
+      "🧪What is Interfluid Staking?💦\nInterfluid staking is under development. It is essentially superfluid staking for the other side of your LP position, e.g. the ATOM side of ATOM/OSMO. Osmosis is creating a module for other chains to use that will enable them to determine how much of their asset is in the pool over time. They can then use that asset to secure their own chain, subject to slashing if the validator misbehaves."
+    ],
+    [
+      "TRUE",
+      "!interfluid",
+      "",
+      "Checkout all the Interviews/Conference talks of Sunny Aggarwal here:\r\n\r\nhttps://bit.ly/Sunny_Interviews "
+    ],
+    [
+      "TRUE",
+      "!interviews",
+      "",
+      "ION faq can be found here\r\nhttps://bit.ly/ION_FAQ \r\n\r\nION 3.0 info\r\nhttps://bit.ly/Ion_3 \r\n\r\nION Telegram channel\r\nhttps://t.me/IONGovernanceWorkingGroup "
+    ],
+    [
+      "TRUE",
+      "!ion",
+      "",
+      "The ION tip bot is a cool tool introduced to allow Osmonauts tip each other some OSMO\n\nThe bot was launched with a zero OSMO balance, and is self sufficient and fueled by users generosity to each other 🤗\n\nAny user can deposit OSMO into their unique ION tip bot wallet address, and send some OSMO to another TG Osmonaut"
+    ],
+    [
+      "TRUE",
+      "!ionbotrules",
+      "",
+      "#Rules: Admin is prohibited from getting tips, all forms of tips to admin must return to the community by giving tips to the community according to the rules above, for communities asking for tips are at risk of being muted for 2 days."
+    ],
+    [
+      "TRUE",
+      "!iontipbotsrules",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/starname_me"
+    ],
+    [
+      "TRUE",
+      "!iov",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/irisnetwork"
+    ],
+    [
+      "TRUE",
+      "!iris",
+      "",
+      "Please Join Their Discord or Telegram Channel\n\nhttps://discord.com/invite/5GKym3p6rj\n\nhttps://t.me/+rtuZnbTlHaIzNjVh"
+    ],
+    [
+      "TRUE",
+      "!jkl",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/JunoNetwork"
+    ],
+    [
+      "TRUE",
+      "!juno",
+      "",
+      "Please Join Their Telegram Channel.\n                                                                                                                                                                                        \nhttps://t.me/kavalabs"
+    ],
+    [
+      "TRUE",
+      "!kava",
+      "",
+      "✅ Official website of Keplr wallet: keplr.app  \n\n✅ Official support of Keplr wallet: help.keplr.app \n\n✅ Official Twitter of Keplr wallet: twitter.com/keplrwallet \n\n❌⚠️ Remember that Telegram/Discord/Twitter channels DO NOT exist for Keplr support.\n\n❌ NEVER SHARE YOUR SEEDPHRASE/PRIVATE KEYS TO ANYONE INCLUDING KEPLR SUPPORT"
+    ],
+    [
+      "TRUE",
+      "!keplr",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/team_kujira "
+    ],
+    [
+      "TRUE",
+      "!kuji",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/GenesisL1_Lounge"
+    ],
+    [
+      "TRUE",
+      "!l1",
+      "",
+      "🇬🇧 English: https://t.me/osmosis_chat\n🇫🇷 French: https://t.me/osmosis_france\n🇩🇪 German: https://t.me/Osmosis_Lap_Germany\n🇮🇹 Italian: https://t.me/osmosisita\n🇮🇳 India: https://t.me/osmosisPakistanIndia\n🇮🇩 Indonesian: https://t.me/OsmosisIndonesia\n🇰🇷 Korean: https://t.me/osmosiskorea\n🇲🇾 Malaysia https://t.me/osmosismalaysia\u200b\n🇵🇰 Pakistan: https://t.me/osmosisPakistanIndia\n🇮🇷 Persian: https://t.me/osmosis_persian\n🇷🇺 Russian: https://t.me/Osmosis_ru\n🇪🇸 Spanish: https://t.me/Osmosis_es\n🇹🇷 Turkish: https://t.me/OsmosisZoneTR\n🇻🇳 Vietnamese: https://t.me/osmosisvn"
+    ],
+    [
+      "TRUE",
+      "!languages",
+      "",
+      "Please Read this Article.\n\nhttps://osmosis.gitbook.io/o/other-features/lbp "
+    ],
+    [
+      "TRUE",
+      "!lbp",
+      "",
+      "Ledger Nano on Keplr Wallet\n\nTo use Keplr with Ledger, please follow the steps in these guides\n\nhttps://support.ledger.com/hc/en-us/articles/360013713840-Cosmos-ATOM-?docs=true\n\nhttps://help.keplr.app/articles/how-to-connect-your-ledger-with-keplr-extension\n\nhttps://support.ledger.com/hc/en-us/articles/4411149814417-Set-up-and-use-Keplr-to-access-your-Ledger-Cosmos-ATOM-account?docs=true\n\nℹ Troubleshooting tips:\nIf you are experiencing issues with your Ledger Nano in Keplr Wallet, the following might help:\n\n✅ Make sure you have selected the correct Ledger account within Keplr before interacting with osmosis.zone\n✅ Use CTRL + SHIFT + R to refresh & clear cache on the Osmosis website before interacting with Keplr.\n✅ Make sure you are using the Cosmos app on your Ledger\n✅ Disable and re-enable Keplr Wallet extension\n✅ Unplug your Ledger from USB, close all open web browser windows (Chrome or Brave), and reopen only one web browser.\n\n"
+    ],
+    [
+      "TRUE",
+      "!ledger",
+      "",
+      "Please Join Their Discord Channel.\n\nhttps://discord.com/invite/W4DQ6peZZZ"
+    ],
+    [
+      "TRUE",
+      "!like",
+      "",
+      "Official Osmosis Links:\n\nEnter the Lab and Earn:\nhttps://osmosis.zone \u200b\n\nFrontier site:\nhttps://frontier.osmosis.zone\n\nSupport site:\nhttps://support.osmosis.zone \n\u200b\nDocs:\nhttp://docs.osmosis.zone \n\nRead about the OSMO token distribution:\nhttps://medium.com/osmosis/osmo-token-distribution-ae27ea2bb4db \u200b\n\nLearn more about what it means to be a Liquidity Provider:\nhttps://medium.com/osmosis/osmosis-liquidity-mining-101-2fa58d0e9d4d  \n\nJoin the Community\n\nFacebook Page:\nhttps://www.facebook.com/Osmosiszone \n\nFacebook Group:\nhttps://www.facebook.com/groups/osmosiszone \u200b\n\nTwitter:\nhttps://twitter.com/osmosiszone \u200b\n\nReddit:\nhttps://www.reddit.com/r/OsmosisLab \n\nDiscord:\nhttps://discord.gg/osmosis \u200b\n\nTelegram:\nhttps://t.me/osmosis_chat \u200b\n\nInstagram:\nhttps://www.instagram.com/osmosis.zone \n\nMedium:\nhttps://medium.com/osmosis \u200b\n\nYoutube\nhttps://www.youtube.com/c/Osmosiszone/videos\n\nGovernance:\nhttps://gov.osmosis.zone \n\nPodcast:\nhttps://podcast.labupdates.zone \u200b\n\nGitHub:\nhttps://github.com/osmosis-labs \u200b\n\nCommunity updates:\nhttps://medium.com/osmosis-community-support-dao \u200b\u200b \n\nInterchain Wallet Keplr:\nhttps://www.keplr.app \n\nKeplr Support:   \nhttps://help.keplr.app  \n\n⚠️Keplr does not have a Telegram channel, existing ones are scams⚠️\u200b\u200b"
+    ],
+    [
+      "TRUE",
+      "!links",
+      "",
+      "Liquidity Mining are incentives to reward liquidity providers for their contributions and give them an ownership stake in the future of the protocol.The process for earning these liquidity incentives is known as liquidity mining. While many within the Cosmos ecosystem are familiar with concepts like staking rewards and community pools, Osmosis is the first Cosmos project to introduce liquidity incentives.\nhttps://bit.ly/3sER0n8 "
+    ],
+    [
+      "TRUE",
+      "!liquiditymining",
+      "",
+      "Listing on Osmosis is permissionless\nThere is no need to contact any member of the Osmosis team to list. \n\nhttps://docs.osmosis.zone/integrate/token-listings.html\n\nKeplr support is also permissionless\n\nAny chain can add themselves to keplr\n\nhttps://docs.keplr.app/api/suggest-chain.html"
+    ],
+    [
+      "TRUE",
+      "!listing"
+    ],
+    [
+      "TRUE",
+      "!lp",
+      "",
+      "For external rewards -\nCalculate share of that pool:\n[your value divided by total pool value]  = A\n\nCalculate the external reward per day:\n[remaining reward divided by remaining days] = B\n\nAxB = your daily external reward"
+    ],
+    [
+      "TRUE",
+      "!lpcalc",
+      "",
+      "🔓 After unbonding, your tokens will stay locked for the chosen unbonding time (1d / 7d / 14d). Lower-timeframe bonds will continue to aggregate rewards while higher-timeframe periods are already unbonding. You will still receive rewards each day until the unbond period has fully elapsed."
+    ],
+    [
+      "TRUE",
+      "!lprewards",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/lum_network "
+    ],
+    [
+      "TRUE",
+      "!lum",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/TerraNetworkLobby"
+    ],
+    [
+      "TRUE",
+      "!luna",
+      "",
+      "For more info, Please join their Telegram channel.\n\nhttps://t.me/TerraLunaChat"
+    ],
+    [
+      "TRUE",
+      "!lunc",
+      "",
+      "Please Join Their Telegram Channel.\n                                                                                                                                                                                        \nhttps://t.me/marbledao"
+    ],
+    [
+      "TRUE",
+      "!marble",
+      "",
+      "Please Join Their Telegram Channel or Discord.\n \nhttps://t.me/martiannews \n\nhttps://discord.com/invite/marsprotocol "
+    ],
+    [
+      "TRUE",
+      "!mars",
+      "",
+      "Please Read these Articles.\n\nhttps://medium.com/@Osmosis"
+    ],
+    [
+      "TRUE",
+      "!medium",
+      "",
+      "For more information about MEME please join their Telegram Channel:\r\n\r\nhttps://t.me/MEMEtgChat "
+    ],
+    [
+      "TRUE",
+      "!meme",
+      "",
+      "Enter your address here to check on your transactions on chain. \n\nhttps://www.mintscan.io/osmosis                                                                                                                                                                                                                                                                                       "
+    ],
+    [
+      "TRUE",
+      "!mint",
+      "",
+      "Please Join Their Telegram Channel\n\nhttps://t.me/assetmantlechat"
+    ],
+    [
+      "TRUE",
+      "!mntl",
+      "",
+      "Keplr Mobile is now available by visiting your phone's application store.\n\nor download from the keplr's official site \nhttps://www.keplr.app/download\n\nInstallation guides can be found here\nhttps://help.keplr.app/category/mobile\n"
+    ],
+    [
+      "TRUE",
+      "!mobilewalletguide",
+      "",
+      "Please Join Their Discord Channel.\n                                                                                                                                                                                        \nhttps://discord.com/invite/neta "
+    ],
+    [
+      "TRUE",
+      "!neta",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/emoney_com"
+    ],
+    [
+      "TRUE",
+      "!ngm",
+      "",
+      "Please Join Their Telegram Channel.\n                                                                                                                                                                                        \nhttps://t.me/nomicbtc "
+    ],
+    [
+      "TRUE",
+      "!nom",
+      "",
+      "For more information about ODIN protocol please join their Telegram Channel:\n\nhttps://t.me/odinprotocol  "
+    ],
+    [
+      "TRUE",
+      "!odin",
+      "",
+      "RIP Tipbot... my favorite son"
+    ],
+    [
+      "TRUE",
+      "!openrain",
+      "",
+      "Checkout the Osmocon 2022 videos here:\n\nhttps://www.youtube.com/watch?v=CqES5QslMbQ\n\nhttps://www.youtube.com/watch?v=DsRr1jWKo40\n\nhttps://www.youtube.com/watch?v=mPwx46YX94g\n\nhttps://www.youtube.com/watch?v=wQhdT47AwD0\n\nhttps://www.youtube.com/watch?v=Z0GsKw2ZZxE"
+    ],
+    [
+      "TRUE",
+      "!osmocon",
+      "",
+      "Official links of Osmosis app and Osmosis Support:\n\nhttps://app.osmosis.zone \n\nhttps://frontier.osmosis.zone \n\nhttps://t.me/osmosis_chat \n\nhttps://discord.gg/osmosis \n\nhttps://twitter.com/osmosiszone \nhttps://support.osmosis.zone/"
+    ],
+    [
+      "TRUE",
+      "!osmosis",
+      "",
+      "-it was an OTC sale from the foundation strategic reserve to Paradigm, one-year locked from the time of sale\n\n-it was $21m USD purchased at $1.60\n\nhttps://www.coindesk.com/business/2021/10/27/osmosis-closes-21m-token-sale-led-by-paradigm"
+    ],
+    [
+      "TRUE",
+      "!paradigm",
+      "",
+      "Please read all pinned messages, thanks!"
+    ],
+    [
+      "TRUE",
+      "!pin",
+      "",
+      "Please check pinned messages."
+    ],
+    [
+      "TRUE",
+      "!pinned",
+      "",
+      "Official discord: https://discord.gg/planq-network\nOfficial webpage: https://planq.network"
+    ],
+    [
+      "TRUE",
+      "!planq",
+      "",
+      "🔸After adding liquidity to a pool and then bonding your GAMM to any of the 1/7/14 day gauges, your GAMM stays bonded (locked) for an indefinite period.\r\n\r\n🔹The 1/7/14 day gauges are UNBONDING periods. Unbonding periods only begin after clicking 'unbond all'\r\n\r\n🔺To Unbond, click 'Unbond All'. Your Unbonding period now starts. Only after 1/7/14 days of Unbonding period, you will be able to remove your liquidity from the pool.\r\n\r\n🧪Note that the bonding gauges (1/7/14 days) DOES NOT mean that you have to unbond in 1/7/14 days. Rewards are given as long as your assets are bonded. However, if you wish to unbond, you can unbond anytime (before/after/during 1/7/14days)."
+    ],
+    [
+      "TRUE",
+      "!poolinginfo",
+      "",
+      "🚨🚨🚨HOW TO STOP SCAMMERS CALLING / ADDING YOU TO THEIR GROUP🚨🚨🚨\n\n🔘Please Click “Settings”\n🔘Next Click “Privacy And Security”\n\n🔘Change the following:\n\n-Phone number \u003e Nobody\n-Calls \u003e Nobody\n-Groups & channels \u003e My contacts\n"
+    ],
+    [
+      "TRUE",
+      "!privacy",
+      "",
+      "For more info, Please join their Telegram channel.\n\nhttps://t.me/pstakefinancechat "
+    ],
+    [
+      "TRUE",
+      "!pstake",
+      "",
+      "For more info, join their Telegram or Discord channels.\n \nhttps://t.me/quasarfi  \n\nhttps://discord.gg/quasarfi  "
+    ],
+    [
+      "TRUE",
+      "!qsr",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/RebusChain \n\nDiscord Channel \n\nhttp://discord.gg/tqfSntHxvv"
+    ],
+    [
+      "TRUE",
+      "!rebus",
+      "",
+      "Redelegating is instant, but there are a few restrictions related to this:\n\n- You must wait 14 days in order to be able to redelegate from the \"To\" validator.\n- You can redelegate from and to the same validator set only up to 7 times.\n\n-For example, on Cosmos Hub: \nRedelegate Validator A -\u003e Validator B = instant\nRedelegate Validator B -\u003e Validator C = must wait 21 days\nRedelegate Validator C -\u003e Validator D = must wait 21 days...\n- Superfluid staked amount currently CANNOT be redelegated, you must unbond and wait for the 14 days then re-bond and delegate to a new validator."
+    ],
+    [
+      "TRUE",
+      "!redelegate",
+      "",
+      "🔹Try: CTRL + SHIFT + R \nIf that does not work, please try manually clearing the full browser cache + cookies: \n\nType CTRL + SHIFT + DELETE, and select ALL in the dropdown. \nSelect \"Cookies and other site data\" and \"Cached images and files\""
+    ],
+    [
+      "TRUE",
+      "!refresh",
+      "",
+      "Please Join Their Telegram Channel.\n                                                                                                                                                                                        \nhttps://t.me/regennetwork_public"
+    ],
+    [
+      "TRUE",
+      "!regen",
+      "",
+      "⚛️ IBC is what brings assets to osmosis, relayers provide the necessary infrastructure. As there are currently no incentives to relay IBC transactions, relayers depend on revenue through staking commission.\n\n\u003ca href=\"https://docs.osmosis.zone/osmosis-core/relaying/ibc-relayers-list\"\u003eYou can find a list of active relayers here\u003c/a\u003e"
+    ],
+    [
+      "TRUE",
+      "!relayers",
+      "",
+      "For more information about ATOLO/Rizon, please join their Telegram Channel:\r\n\r\nhttps://t.me/rizon_atolo_eng"
+    ],
+    [
+      "TRUE",
+      "!rizon",
+      "",
+      "🧪The development of Osmosis is carried out in accordance with the priorities desired by the community through voting governance, \nso it can be said that the roadmap/development of Osmosis is dynamic and not rigid. \n\n👉Lab work progress in real-time can be found here- https://github.com/osmosis-labs/feature-requests \n\n👉You can also follow its development through weekly updates every wednesday on Twitter spaces and other channels: \n\nhttps://twitter.com/osmosiszone\n\nhttps://twitter.com/osmosiscc\n\nhttps://medium.com/osmosis-community-updates   \n\nhttps://www.youtube.com/c/Osmosiszone \n\n👉You can contribute through suggestions and criticism in this forum- https://commonwealth.im/osmosis/ "
+    ],
+    [
+      "TRUE",
+      "!roadmap",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/sifchain"
+    ],
+    [
+      "TRUE",
+      "!rowan",
+      "",
+      "Changing RPC+LCD endpoints can improve wallet lag or connection failures. \nOpen Keplr settings \u003e endpoints.\nRPC - https://rpc.osl.zone\nLCD - https://api.osl.zone\n\nIf these don't work try some alternatives from https://cosmos.directory/osmosis/nodes"
+    ],
+    [
+      "TRUE",
+      "!rpc",
+      "",
+      "‼️Rules: \nThis is the OSMOSIS DEX $OSMO global chatroom. \nKeep communication respectful and disagreements mature. \n✅ Price talk, jokes, and Osmosis relevant general discussions.\n❌ Language including racism, sexism, politics, and harassment.\n❌ No promotions for other crypto projects\n❌ No senseless FUD\n❌ Do not self promote (links to your own tweets, socials, etc)\n❌ Do not beg for tips or spam the chat. \n❌ Do not post anything associated with illegal activity."
+    ],
+    [
+      "TRUE",
+      "!rules",
+      "",
+      "🚨 Public Safety Announcement 🚨\n\n⚠️  If you are new to crypto, or a seasoned OG, please familiarize yourself with these best practices for the safety of your funds. \n\n❌  Do not share or enter your seed phrase into ANY website. This is a big no-no in crypto - any project who does this should be questioned, named & shamed.\nYour seed is the ownership of your assets. Anyone with the seed, owns your assets!\n\n❌  Block & report all direct messages! People who message you offering assistance are not your friend. They are 100% a con-artist looking to steal your crypto.\n\n❌  Do not download unverified \"wallet\" apps or extensions.\n\n❌  Don't use relatively unknown web browsers, as they might be slow to release security updates. Only Chrome is officially supported.\n\n❌  Keplr DOES NOT have a Telegram group for support! - Don't be one of the 100,000+ potential victims on the fake groups!\nOfficial support: https://help.keplr.app\n\n✅  Install Keplr wallet from the official link only: https://keplr.app\n\n✅  Always use the verified links found in this chat. Bookmark them to be safe!\n\n✅  Keep all backups OFFLINE. Write your recovery phrase on paper, and hide in a secure location. Don't tell anybody!\n\n✅  Get a hardware wallet (e.g. Ledger Nano S or X) for air-gapped security. It's suggested to order directly from the original manufacturer. You won't even need to enter your seed phrase into Keplr!\n\n✅  Before approving a wallet transaction, take a moment & check if it is what you intend to do!\n\n🏆  Common sense goes a long way, but education is key to crypto safety. \n\nℹ️  If you have any concerns, or think you may be hacked, you can start an anonymous chat with an admin:\nhttps://support.osmosis.zone \n\nYou can also open a support ticket on the official Osmosis Discord's  \"contact\" channel:\nhttps://discord.gg/2A5c9qVF"
+    ],
+    [
+      "TRUE",
+      "!safety",
+      "",
+      "Please help protect our community by reporting scam websites at the link below. \nEntries are verified before being blacklisted. Login/personal details are not required. \nSubmissions are by domain only -- remove any https:// or www. from the URL.\n\nhttps://cosmoshield.org/app/dashboard"
+    ],
+    [
+      "TRUE",
+      "!scamreport"
+    ],
+    [
+      "TRUE",
+      "!scamwarning",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/SCRTCommunity"
+    ],
+    [
+      "TRUE",
+      "!scrt",
+      "",
+      "SFS FAQs\n\nhttps://bit.ly/Superfluid_FAQ"
+    ],
+    [
+      "TRUE",
+      "!sfsfaq",
+      "",
+      "Osmosis Siberia a lawless land where no rules apply (mostly). Away from civilized Osmosis society, a home for exiles, memelords, and degens alike.Enjoy and stay warm.\n\nhttps://t.me/osmosissiberia"
+    ],
+    [
+      "TRUE",
+      "!siberia",
+      "",
+      "The Single Asset LP feature is a convenience option that essentially converts your tokens to the correct pool weight (50/50), then adds them to the pool in one transaction. Swap fees will apply, and the pool ratio will be affected by the swap. For more info click \u003ca href=\"https://medium.com/osmosis-community-support-dao/single-asset-lp-67fb48abce53\"\u003ehere.\u003c/a\u003e"
+    ],
+    [
+      "TRUE",
+      "!singleasset",
+      "",
+      "Hey everyone, check out the official Osmosis social channels 🤩\n\nLike, Follow and Subscribe to the channels 💜\n\nShow your love, get updates, have discussions, and post your ideas💡\n\n🧬 \u003ca href=\"https://twitter.com/osmosiszone\"\u003eMain Twitter @Osmosiszone\u003c/a\u003e   \n🧬 \u003ca href=\"https://twitter.com/OsmosisCC\"\u003eOsmosisCC Twitter\u003c/a\u003e\n🧬 \u003ca href=\"https://www.youtube.com/c/Osmosiszone\"\u003eYoutube\u003c/a\u003e\n🧬 \u003ca href=\"https://www.reddit.com/r/OsmosisLab/\"\u003eReddit\u003c/a\u003e\n🧬 \u003ca href=\"https://www.facebook.com/Osmosiszone/\"\u003eFacebook Page\u003c/a\u003e\n🧬 \u003ca href=\"https://www.facebook.com/groups/osmosiszone/\"\u003eFacebook Group\u003c/a\u003e  \n🧬 \u003ca href=\"https://www.instagram.com/osmosis.zone/\"\u003eInstagram\u003c/a\u003e"
+    ],
+    [
+      "TRUE",
+      "!socials",
+      "",
+      "Please Join Their Telegram Channel.\n                                                                                                                                                                                        \nhttps://t.me/getsomm  "
+    ],
+    [
+      "TRUE",
+      "!somm",
+      "",
+      "Live updating sheet - https://bit.ly/newincentivessheet\n \nNote that:\n🔸Current Total Apr = OSMO + Externals (if incentivised) + Swap fee Apr, at present.\n\n🔹New OSMO Apr/New Total Apr is the Projected APR calculated based on 7day vol, swap fee and other factors. \n\n🔺Weekly incentives adjustments are proposed every Monday and if passed, the New APRs goes into effect on Friday's epoch.  \n\n🔻New OSMO/New Total Apr might not remain same, as more liquidity is added to or removed from the pool."
+    ],
+    [
+      "TRUE",
+      "!spreadsheet",
+      "",
+      "🧪🧪What is Stableswap?🧪🧪\n\n🟢 Stableswap is a type of AMM that is optimized for trading stable assets like different stablecoins or different versions of wrapped assets.\n\n❓Stablecoins are assets designed to be pegged to a more stable asset for its value. (USDC, BUSD, DAI, etc)\n\n✅ Developed for constant price assets.\n\n✅ Reduced slippage encourages safer trading between assets.\n\n✅ Currently integrating Stableswap in Osmosis DEX.                                                                                                                     "
+    ],
+    [
+      "TRUE",
+      "!stableswap",
+      "",
+      "✅ You can delegate your OSMO to a set of validators using \u003ca href=\"https://wallet.keplr.app/#/osmosis/stake\"\u003ekeplr wallet\u003c/a\u003e or \u003ca href=\"https://cosmostation.io\"\u003ecosmostation\u003c/a\u003e to receive staking rewards.\n\nRewards can be claimed daily after epoch (17:30 UTC) and are not distributed automatically. If you unstake your tokens they will stay locked for the unstaking period (14 days). You will not receive rewards during this unstaking period\n\nrelated to: #validators"
+    ],
+    [
+      "TRUE",
+      "!stakingguide",
+      "",
+      "🔓 After delegating your tokens to a Validator you will receive rewards each day until you choose to undelegate. Rewards for staking can be claimed daily at epoch 17:30 UTC "
+    ],
+    [
+      "TRUE",
+      "!stakingrewards",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/stargazezone"
+    ],
+    [
+      "TRUE",
+      "!stars",
+      "",
+      "OSMO Stats/APR info:\n\nhttps://info.osmosis.zone/ \n\nhttps://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?orgId=1&var-chain_id=osmosis-1 \n\nhttps://monitor.bronbro.io/d/osmo-stats/osmosis-stats?orgId=2&refresh=10s \n\nhttps://monitor.bronbro.io/d/osmo-graph/osmo-stats-graph?orgId=2 \n\nhttps://osmosis.smartstake.io/"
+    ],
+    [
+      "TRUE",
+      "!stats",
+      "",
+      "https://t.me/stride_official"
+    ],
+    [
+      "TRUE",
+      "!strd",
+      "",
+      "Please Join Their Discord Channel\n\nhttp://stride.zone/discord"
+    ],
+    [
+      "TRUE",
+      "!stride",
+      "",
+      "Superfluid Staking article/video/FAQs can be found here\r\n\r\nWhat is SFS?\r\n\r\nhttps://bit.ly/superfluidstaking \r\n\r\nSFS Explained By Sunny Aggarwal 🧿\r\n\r\nhttps://bit.ly/SFS_by_Sunny \r\n\r\nSFS FAQs\r\n\r\nhttps://bit.ly/Superfluid_FAQ "
+    ],
+    [
+      "TRUE",
+      "!superfluid",
+      "",
+      "If you need help, visit our official support site, https://support.osmosis.zone "
+    ],
+    [
+      "TRUE",
+      "!support",
+      "",
+      "Swap fees are fees charged for making a swap in an LP pool. The fee is paid by the trader in the form of the input asset. Pool creators specify the swap fee when establishing the pool. The total fee for a particular trade is calculated as percentage of swap size. Fees are added to the pool, effectively resulting in pro-rata distribution to LPs proportional to their share of the total pool."
+    ],
+    [
+      "TRUE",
+      "!swapfee",
+      "",
+      "🖥 Connect your \u003ca href=\"https://keplr.app\"\u003ekeplr wallet\u003c/a\u003e to app.osmosis.zone and deposit your assets using the \"Assets\" tab. Wait for the IBC transaction to complete, it can take a few minutes until your assets will show up.\n\n🔄 You can then swap to any other supported asset on the \"Trade\" page. "
+    ],
+    [
+      "TRUE",
+      "!swapguide",
+      "",
+      "For more info, Please join their Telegram channel.\n\nhttps://t.me/switcheo "
+    ],
+    [
+      "TRUE",
+      "!swth",
+      "",
+      "\u003cb\u003eTax Tools\u003c/b\u003e\n\nYou can download a CSV of all your trades by connecting to the \u003ca href=\"https://info.osmosis.zone/dashboard/trades\"\u003eOsmosis info dashboard\u003c/a\u003e. Osmosis is also integrated into several tax-reporting tools such as: \n\n📖 Stake.tax - download a spreadsheet of all your trades.\n\n📖 App.sycamore.tax - newer app for downloading transaction history; more focused on Cosmos chains like Osmosis.\n\n📖 Koinly.io - full portfolio tracker and crypto tax reporting service. Automatically sync transactions from CEXes and decentralised wallets, including Osmosis, or import a CSV from stake.tax or Sycamore. Similar alternatives: \u003ca href=\"https://www.accointing.com/\"\u003eAccointing\u003c/a\u003e, \u003ca href=\"https://login.cointracker.io/\"\u003eCointracker\u003c/a\u003e, and \u003ca href=\"https://cryptotaxcalculator.io\"\u003eCryptoTaxCalculator\u003c/a\u003e.\n\nThese sites will never need more than your public wallet address or a read-only API from your exchange. Be wary of seed-phrase phishing sites if you use a search engine to find a tax reporting tool."
+    ],
+    [
+      "TRUE",
+      "!taxtools",
+      "",
+      "\u003cb\u003eTax Tools\u003c/b\u003e\n\nYou can download a CSV of all your trades by connecting to the \u003ca href=\"https://info.osmosis.zone/dashboard/trades\"\u003eOsmosis info dashboard\u003c/a\u003e. Osmosis is also integrated into several tax-reporting tools such as: \n\n📖 Stake.tax - download a spreadsheet of all your trades.\n\n📖 App.sycamore.tax - newer app for downloading transaction history; more focused on Cosmos chains like Osmosis.\n\n📖 Koinly.io - full portfolio tracker and crypto tax reporting service. Automatically sync transactions from CEXes and decentralised wallets, including Osmosis, or import a CSV from stake.tax or Sycamore. Similar alternatives: \u003ca href=\"https://www.accointing.com/\"\u003eAccointing\u003c/a\u003e, \u003ca href=\"https://login.cointracker.io/\"\u003eCointracker\u003c/a\u003e, and \u003ca href=\"https://cryptotaxcalculator.io\"\u003eCryptoTaxCalculator\u003c/a\u003e.\n\nThese sites will never need more than your public wallet address or a read-only API from your exchange. Be wary of seed-phrase phishing sites if you use a search engine to find a tax reporting tool."
+    ],
+    [
+      "TRUE",
+      "!tax",
+      "",
+      "Osmosis team/founders:\n\n🔸Sunny Aggarwal\nhttps://twitter.com/sunnya97  \nhttps://www.crunchbase.com/person/sunny-aggarwal  \nhttps://www.sunnya97.com/about/  \nhttps://www.linkedin.com/in/sunnya97  \n\n🔸Josh Lee\nhttps://twitter.com/dogemos  \n\n🔸Dev Ojha\nhttps://twitter.com/valardragon \n\n🔸Tony Yun\nhttps://twitter.com/tonyyun9"
+    ],
+    [
+      "TRUE",
+      "!team",
+      "",
+      "The IBC channel between Terra Classic and Osmosis hasn't been re-enabled on Terra's end. It was disabled at their last chain halt. But the channel is opened on Osmosis end and Osmosis team is willing to help with anything if Terra team decides to open the channels (https://twitter.com/osmosiszone/status/1537554833036783616). \n\nSo for now, your options are:\n\n🔵 trade or LP your LUNC/USTC on https://frontier.osmosis.zone\n\n🔵 keep holding it in your Osmosis wallet until Terra Classic team implements the upgrade to their chain.\n\nFor more info on ibc status, you can ask to the Terra team in these channels:\nhttps://t.me/classicluna \nhttps://t.me/TerraNetworkLobby"
+    ],
+    [
+      "TRUE",
+      "!terraibc",
+      "",
+      "This cat is a test."
+    ],
+    [
+      "TRUE",
+      "!testcat"
+    ],
+    [
+      "TRUE",
+      "!testing",
+      "",
+      "For more info on Tgrade, please join their Telegram/Discord channels.\r\n\r\nhttps://t.me/confio_tech\r\nhttps://discord.com/invite/wT6HuUA95r"
+    ],
+    [
+      "TRUE",
+      "!tgd",
+      "",
+      "DM the ION Tip Bot @IONTipbot\n\nThen type  /help\n\n... and follow the instructions 👍"
+    ],
+    [
+      "TRUE",
+      "!tipbot",
+      "",
+      "https://bit.ly/3BkWIP5"
+    ],
+    [
+      "TRUE",
+      "!tokenomics",
+      "",
+      "Please Join Their Discord Channel\n\nhttps://discord.com/invite/teritori "
+    ],
+    [
+      "TRUE",
+      "!tori",
+      "",
+      "🖥 connect your \u003ca href=\"https://wallet.keplr.app\"\u003ekeplr wallet\u003c/a\u003e to app.osmosis.zone and swap ATOM for OSMO. ATOM can be bought on various centralized exchanges such as binance.com\n\nrelated to #deposit"
+    ],
+    [
+      "TRUE",
+      "!tradeosmo",
+      "",
+      "Please Join Their Telegram Channel.\n                                                                                                                                                                                        \nhttps://t.me/umeecrosschain "
+    ],
+    [
+      "TRUE",
+      "!umee",
+      "",
+      "🔓 After unbonding your tokens will stay locked for the chosen unbonding time (1d / 7d / 14d). Lower-timeframe bonds will continue to aggregate rewards while higher-timeframe periods are already unbonding. You will still receive rewards each day until the unbond period has fully elapsed."
+    ],
+    [
+      "TRUE",
+      "!unbond",
+      "",
+      "Check out the Weekly Lab Updates/Upcoming tokens listings/Pools Incentives information from the links below \r\n \r\nhttps://medium.com/osmosis-community-updates \r\n\r\nhttps://bit.ly/Updates_Notes_List \r\n\r\nhttps://www.youtube.com/c/Osmosiszone  \r\n\r\nhttps://podcast.labupdates.zone/1900655 "
+    ],
+    [
+      "TRUE",
+      "!updates",
+      "",
+      "How to bring USDC to Osmosis\n\nThe most liquid USDC on Osmosis is Axelar-wrapped. If you have USDC on Ethereum, you can bridge it directly to Osmosis with the \u003ca href=\"https://satellite.money/?destination=osmosis&source=ethereum&token=usdc\"\u003eAxelar bridge\u003c/a\u003e (satellite.money).\n\nOn other chains, you will need to obtain axlUSDC to be able to bridge it to Osmosis. If you do not have axlUSDC you can swap to it in these liquidity pools:\n\n🔗 Avalanche:\nSwap USDC.e to axlUSDC: https://curve.fi/#/avalanche/swap\n\n🔗 Polygon:\nSwap USDC to axlUSDC: https://curve.fi/#/polygon/swap\n\n🔗 Fantom:\nSwap USDC to axlUSDC: https://curve.fi/#/fantom/swap\n\n🔗 BSC:\nSwap BUSD to axlUSDC: https://ellipsis.finance/pool/0x6731D8ce7C52FEc9136cf3b7d122C032C46fF58f"
+    ],
+    [
+      "TRUE",
+      "!usdc",
+      "",
+      "✅ Distribute your stake between a number of reliable validators to minimize slashing risk and improve stability of the network.\n\n❌Avoid top 10 validators (to decentralize the network). Stake to middle ranked validators.\n\n❌☠️Avoid delegating to Centralised Exchange validators (i.e. Binance, Coinbase etc)\n\n💚Uptime should be from 98% to 100%\n\n👍Commission starting from 5% (percentage you share rewards with validators)\n\n🧪 Validator contributed for Cosmos community (who develops charts/bots/tools/governance proposals etc..)\n\n💪Validator who participates in the Governance regularly and has higher Voting Participation.\n\n(Check Validator's Voting History here- https://hathornodes.com/validator_voting_history/osmosis)\n\n🔥Select Relaying Validators who clear IBC congestions. \n( List can be found here https://docs.osmosis.zone/osmosis-core/relaying/ibc-relayers-list )"
+    ],
+    [
+      "TRUE",
+      "!validators",
+      "",
+      "Please Join Their Discord Channel.\n\nhttps://discord.com/invite/hne7Ccq"
+    ],
+    [
+      "TRUE",
+      "!vdl",
+      "",
+      "How to use Osmosis DEX- A video guide for beginners / newcomers:\n\nhttps://bit.ly/Osmosis_How_To_Videos "
+    ],
+    [
+      "TRUE",
+      "!videos",
+      "",
+      "Breakdown of how it works - https://medium.com/nerd-for-tech/understanding-wrapped-bitcoin-and-the-wrapped-tokens-framework-6ed45e52acdb\n\nOfficial website: select from the list of 'merchants' if you want to try wrapping your own BTC - https://wbtc.network/"
+    ],
+    [
+      "TRUE",
+      "!wbtc",
+      "",
+      "🧪 Osmosis is a decentralized, permissionless peer-to-peer blockchain that people can use to create liquidity and trade IBC enabled tokens. The Osmosis blockchain is made up of free, public, and open-source software.\n\nvisit https://medium.com/osmosis/vision-for-osmosis-e68e796ff1c2"
+    ],
+    [
+      "TRUE",
+      "!whatisosmosis",
+      "",
+      "🔗 Withdraw your assets from the \"Assets\" tab on app.osmosis.zone.  Please be patient, it can take up to 10 minutes for IBC withdrawal to complete."
+    ],
+    [
+      "TRUE",
+      "!withdraw",
+      "",
+      "🔗 Withdraw your assets from the \"Assets\" tab on app.osmosis.zone.  Please be patient, it can take up to 10 minutes for IBC withdrawal to complete."
+    ],
+    [
+      "TRUE",
+      "!withtest",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/wynd_dao"
+    ],
+    [
+      "TRUE",
+      "!wynd",
+      "",
+      "Please Join Their Telegram Channel.\n\nhttps://t.me/KiFoundation"
+    ],
+    [
+      "TRUE",
+      "!xki",
+      "",
+      "Please Join Their Telegram Channel.\n                                                                                                                                                                                        \nhttps://t.me/PersistenceOneChat"
+    ],
+    [
+      "TRUE",
+      "!xprt"
+    ]
+  ]
+}
