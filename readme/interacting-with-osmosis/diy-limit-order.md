@@ -47,7 +47,14 @@ If you want to wait for a discount and get DYM at 7.00USDC, set these points aro
 
 <br>
 
-:zap: **In addition**, while your narrow position is *in range*, you will earn from swap fees and incentives (where applicable) in the pool!
+:zap: **In addition**, while your narrow position is *in range*, you will earn from swap fees and incentives (where applicable) from the pool!
+<br><br><br><br><br>
+
+###### p.s. Quickly + easily check Osmosis pools for incentives using  [@Cosmos_Directory_Bot](https://t.me/Cosmos_Directory_bot) on Telegram!
+
+<br>
 
 
-
+###### *Thanks to Robo for inspiring this writeup*[^1]. *Twice for repeated/last-minute proofreading & feedback.*
+[^1]: @RoboMcGobo Osmosis CL Pool Limit-Order trick [twitter thread](https://twitter.com/RoboMcGobo/status/1755028750926786753).
+.
